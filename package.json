@@ -1,0 +1,27 @@
+{
+  "name": "Solanabruteforce",
+  "version": "1.4.0",
+  "description": "This is a Node.js script that uses multiple worker processes to generate random private keys for Solana wallets and check if they match any of the addresses in a file named data.txt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "crypto",
+    "Bitcoin-bruteforce",
+    "bruteforce",
+    "btc",
+    "wallets",
+    "Bitcoin-Wallet-Recover"
+  ],
+  "author": "CorvusCodex",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.75.0",
+    "blessed": "^0.1.81",
+    "coininfo": "^5.2.1",
+    "coinkey": "^3.0.0",
+    "sodium-native": "^4.0.1"
+  }
+}
