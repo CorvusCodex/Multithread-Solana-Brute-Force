@@ -1,6 +1,6 @@
 "use strict";
 
-process.title = "Solana Bruteforce";
+process.title = "Multithread Solana Brute-Force by Corvus Codex";
 
 //Creaded by: Corvus Codex
 //Github: https://github.com/CorvusCodex/
