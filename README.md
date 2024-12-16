@@ -3,7 +3,8 @@
 
 This is a Node.js script that uses multiple worker processes to generate random private keys for Solana wallets and check if they match any of the addresses in a file named `data.txt`. If a match is found, the wallet address and its private key are saved to a file named `match.txt`.
 
-Buy the app for windows from here: https://ko-fi.com/s/547b50850e
+## For people without technical experience you can buy the compiled standalone application for windows from here:
+https://ko-fi.com/s/547b50850e
 
 ## Requirements
 
@@ -42,7 +43,7 @@ The code within this repository comes with no guarantee, the use of this code is
 
 MIT License
 
-Copyright (c) 2023 CorvusCodex
+Copyright (c) 2024 CorvusCodex
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
