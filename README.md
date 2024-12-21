@@ -28,9 +28,7 @@ https://ko-fi.com/s/547b50850e
 
 >Support my work:<br>
 
->SOL:
-FsX3CsTFkRjzne2KiD8gjw3PEW2bYqezKfydAP55BVj7
-<br>
+>SOL: FsX3CsTFkRjzne2KiD8gjw3PEW2bYqezKfydAP55BVj7
 
 >BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3<br>
 
