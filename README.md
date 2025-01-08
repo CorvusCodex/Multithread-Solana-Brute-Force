@@ -4,7 +4,7 @@
 
 # Multithread Solana Brute Force
 
-This is a Node.js script that uses multiple worker processes to generate random private keys for Solana wallets and check if they match any of the addresses in a file named `data.txt`. If a match is found, the wallet address and its private key are saved to a file named `match.txt`.
+This is a advanced Node.js script that uses multiple worker processes to generate random private keys for Solana wallets and check if they match any of the addresses in a file named `data.txt`. If a match is found, the wallet address and its private key are saved to a file named `match.txt`.
 
 ## For people without technical experience you can buy the standalone application for windows from here:
 https://ko-fi.com/s/547b50850e
