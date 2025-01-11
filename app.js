@@ -22,7 +22,7 @@ const blessed = require('blessed');
 
 function credit(){
   console.log("=================================================================");
-  console.log("Multithread Bitcoin Bruteforce");
+  console.log("Multithread Solana Bruteforce");
   console.log("Created by: Corvus Codex");
   console.log("Github: https://github.com/CorvusCodex/");
   console.log("Licence : MIT License");
