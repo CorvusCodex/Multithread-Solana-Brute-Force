@@ -11,7 +11,7 @@ https://ko-fi.com/s/547b50850e
 
 ## Requirements
 
-- Node.js ( https://nodejs.org/en/download )
+- Node.js ( nodejs.org/en/download )
 - npm
 
 ## Installation
