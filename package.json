@@ -1,6 +1,6 @@
 {
   "name": "Solanabruteforce",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "This is a Node.js script that uses multiple worker processes to generate random private keys for Solana wallets and check if they match any of the addresses in a file named data.txt",
   "main": "app.js",
   "scripts": {
