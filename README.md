@@ -35,7 +35,7 @@ https://ko-fi.com/s/547b50850e
 
 >BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3<br>
 
->ETH: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0<br>
+>ETH / BNB / POL: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0<br>
 
 >Ko-fi: https://ko-fi.com/corvuscodex<br>
 
