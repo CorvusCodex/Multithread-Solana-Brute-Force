@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/CorvusCodex/Multithread-Solana-Brute-Force/refs/heads/main/solana-logo.png">
 </p>
 
-# Multithread Solana Brute Force
+# Multithread Solana Brute Force Tool
 
 This is a advanced Node.js script that uses multiple worker processes to generate random private keys for Solana wallets and check if they match any of the addresses in a file named `data.txt`. If a match is found, the wallet address and its private key are saved to a file named `match.txt`.
 
