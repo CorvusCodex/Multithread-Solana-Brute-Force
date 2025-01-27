@@ -25,7 +25,7 @@ https://ko-fi.com/s/547b50850e
 1. Add the Solana addresses you want to check against to a file named `data.txt`, with one address per line.
 2. Run `node app.js` to start the script.
 3. The script will display the loop count for each worker process in real-time.
-4. If a match is found, the wallet address and its private key will be saved to a file named `match.txt` and the script will exit.
+4. If a match is found, the wallet address and its private key will be saved to a file named `match.txt` and the script will exit!
 
 -----
 
