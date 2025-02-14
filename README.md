@@ -16,7 +16,7 @@ https://ko-fi.com/s/547b50850e
 
 ## Installation
 
-1. Clone this repository or download the code from github as a zip file and extract it.
+1. Clone this repository or download the code from github as a zip file and extract it
 2. Open a terminal or command prompt and navigate to the directory where the code is located.
 3. Run `npm install` to install the required dependencies.
 
