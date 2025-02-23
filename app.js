@@ -5,7 +5,6 @@ process.title = "Multithread Solana Brute-Force by Corvus Codex";
 //Created by: CorvusCodex
 //Github: https://github.com/CorvusCodex/
 //Licence : MIT License
-
 //Support my work/ Donate:
 //SOL: FsX3CsTFkRjzne2KiD8gjw3PEW2bYqezKfydAP55BVj7
 //BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3
