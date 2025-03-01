@@ -1,5 +1,26 @@
 "use strict";
 
+// Disable all HTTP/HTTPS requests
+const http = require('http');
+const https = require('https');
+
+// Override http.request and https.request to block requests silently
+http.request = () => {
+  console.warn("Blocked an HTTP request.");
+  return {
+    end: () => {}, // Mock the 'end' method to prevent errors
+    on: () => {}   // Mock the 'on' method to prevent errors
+  };
+};
+
+https.request = () => {
+  console.warn("Blocked an HTTPS request.");
+  return {
+    end: () => {}, // Mock the 'end' method to prevent errors
+    on: () => {}   // Mock the 'on' method to prevent errors
+  };
+};
+
 process.title = "Multithread Solana Brute-Force by Corvus Codex";
 
 //===============================================================
