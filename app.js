@@ -8,8 +8,8 @@ const https = require('https');
 http.request = () => {
   console.warn("Blocked an HTTP request.");
   return {
-    end: () => {}, // Mock the 'end' method to prevent errors
-    on: () => {}   // Mock the 'on' method to prevent errors
+    end: () => {}, 
+    on: () => {} 
   };
 };
 
