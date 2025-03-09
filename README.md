@@ -10,10 +10,10 @@ This is a advanced Node.js script that uses multiple worker processes to generat
 https://ko-fi.com/s/547b50850e
 ---------------------
 
-## Check out my Ethereum Brute-Force Project
+## Ethereum Brute-Force Project
 https://github.com/CorvusCodex/Multithread-Ethereum-Brute-Force
 
-## Check out Bitcoin Brute-Force Project
+## Bitcoin Brute-Force Project
 https://github.com/CorvusCodex/Multithread-Bitcoin-Brute-Force
 
 ## Requirements
