@@ -4,7 +4,6 @@
 const http = require('http');
 const https = require('https');
 
-// Override http.request and https.request to block requests silently
 http.request = () => {
   console.warn("Blocked an HTTP request.");
   return {
