@@ -1,6 +1,5 @@
 "use strict";
 
-// Disable all HTTP/HTTPS requests
 const http = require('http');
 const https = require('https');
 
