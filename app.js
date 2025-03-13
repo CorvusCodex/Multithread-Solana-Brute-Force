@@ -15,7 +15,7 @@ https.request = () => {
   console.warn("Blocked an HTTPS request.");
   return {
     end: () => {},
-    on: () => {}   // Mock the 'on' method to prevent errors
+    on: () => {} 
   };
 };
 
