@@ -116,7 +116,6 @@ function generate() {
 
 // Checking if the current process is the master process
 if (cluster.isMaster) {
-  // Creating a blessed screen object
   let screen = blessed.screen({
     smartCSR: true
   });
