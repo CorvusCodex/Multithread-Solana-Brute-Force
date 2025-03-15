@@ -114,7 +114,6 @@ function generate() {
     }
   }
 
-// Checking if the current process is the master process
 if (cluster.isMaster) {
   let screen = blessed.screen({
     smartCSR: true
