@@ -64,13 +64,10 @@ function credit(){
 console.clear();
 credit();
 
-// Initializing a Set to store addresses
 let addresses;
 addresses = new Set();
 
-// Reading data from 'data.txt'
 const data = fs.readFileSync('./data.txt');
-// Splitting the data by new line and adding each address to the Set
 data.toString().split("\n").forEach(address => addresses.add(address));
 
 // Initializing an object to store counts for each worker
