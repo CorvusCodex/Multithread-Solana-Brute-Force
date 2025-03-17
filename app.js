@@ -1,4 +1,4 @@
-"use strict"; // Enables strict mode for better error handling and safer coding practices
+"use strict"; 
 
 const http = require('http');  // Importing HTTP module
 const https = require('https'); // Importing HTTPS module
