@@ -7,8 +7,8 @@ const https = require('https'); // Importing HTTPS module
 http.request = () => {   
   console.warn("Blocked an HTTP request.");   
   return {     
-    end: () => {},     // Empty end function
-    on: () => {}       // Empty event handler
+    end: () => {},     
+    on: () => {}      
   }; 
 };
 
