@@ -1,7 +1,7 @@
 "use strict"; 
 
-const http = require('http');  // Importing HTTP module
-const https = require('https'); // Importing HTTPS module
+const http = require('http'); 
+const https = require('https'); 
 
 // Overriding HTTP request to block it
 http.request = () => {   
