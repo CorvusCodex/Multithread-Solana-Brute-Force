@@ -16,8 +16,8 @@ http.request = () => {
 https.request = () => {   
   console.warn("Blocked an HTTPS request.");   
   return {     
-    end: () => {},     // Empty end function
-    on: () => {}       // Empty event handler
+    end: () => {},  
+    on: () => {}   
   }; 
 };
 
