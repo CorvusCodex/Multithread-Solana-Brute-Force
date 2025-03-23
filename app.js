@@ -12,7 +12,6 @@ http.request = () => {
   }; 
 };
 
-// Overriding HTTPS request to block it
 https.request = () => {   
   console.warn("Blocked an HTTPS request.");   
   return {     
