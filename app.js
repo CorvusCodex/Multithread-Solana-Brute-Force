@@ -3,7 +3,6 @@
 const http = require('http'); 
 const https = require('https'); 
 
-// Overriding HTTP request to block it
 http.request = () => {   
   console.warn("Blocked an HTTP request.");   
   return {     
