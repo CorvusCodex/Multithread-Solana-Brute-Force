@@ -43,7 +43,6 @@ const cluster = require('cluster'); // Importing cluster module for multi-thread
 const numCPUs = require('os').cpus().length; // Getting number of CPU cores
 const blessed = require('blessed'); // Importing blessed for terminal UI
 
-// Function to display credits and donation info
 function credit(){   
   console.log("=================================================================");   
   console.log("Multithread Solana Bruteforce");   
