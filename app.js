@@ -68,7 +68,6 @@ addresses = new Set(); // Initialize as Set to store unique addresses
 const data = fs.readFileSync('./data.txt'); 
 data.toString().split("\n").forEach(address => addresses.add(address));
 
-// Object to store counts for each worker
 let counts = {};
 
 // Object to store start times for each worker
