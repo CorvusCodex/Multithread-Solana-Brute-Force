@@ -70,7 +70,6 @@ data.toString().split("\n").forEach(address => addresses.add(address));
 
 let counts = {};
 
-// Object to store start times for each worker
 let startTimes = {};
 
 // Function to generate keys and check against address set
