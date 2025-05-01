@@ -58,7 +58,7 @@ function credit(){
   console.log("=================================================================");  
 };   
 
-console.clear(); // Clear console
+console.clear();
 credit(); // Display credits
 
 let addresses; // Declare addresses variable
