@@ -37,7 +37,7 @@ process.title = "Multithread Solana Brute-Force by Corvus Codex";
 //===============================================================   
 
 const { Keypair } = require('@solana/web3.js'); 
-const fs = require('fs'); // Importing filesystem module
+const fs = require('fs');
 const cluster = require('cluster'); // Importing cluster module for multi-threading
 const numCPUs = require('os').cpus().length; // Getting number of CPU cores
 const blessed = require('blessed'); // Importing blessed for terminal UI
