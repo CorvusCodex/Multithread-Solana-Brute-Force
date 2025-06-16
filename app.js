@@ -27,7 +27,7 @@ process.title = "Multithread Solana Brute-Force by Corvus Codex";
 //Github Repo: https://github.com/CorvusCodex/Multithread-Solana-Brute-Force 
 //Licence : MIT 
 //Support/Donate: 
-//=============================================================== 
+//==============================================================
 //SOL: FsX3CsTFkRjzne2KiD8gjw3PEW2bYqezKfydAP55BVj7 
 //BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3 
 //POL, ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0 
